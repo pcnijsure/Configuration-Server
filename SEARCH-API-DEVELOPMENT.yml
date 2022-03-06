@@ -1,4 +1,4 @@
-airport_configuration:
+airport_configurations:
   valid_airport_codes:
     - BOM
     - DUB
