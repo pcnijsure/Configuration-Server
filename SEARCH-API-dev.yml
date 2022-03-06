@@ -1,5 +1,4 @@
-validAirportCodes:
-  - BOM, DUB, DXB, LHR, STN
+validAirportCodes: BOM, DUB, DXB, LHR, STN
 nearbyAirportCodesMapping:
-    LHR
-    - STN
+  LHR
+  - STN
