@@ -1,0 +1,10 @@
+airportConfigurations:
+  validAirportCodes:
+    - BOM
+    - DUB
+    - DXB
+    - LHR
+    - STN
+  nearbyAirportCodesMapping:
+      LHR
+      - STN
