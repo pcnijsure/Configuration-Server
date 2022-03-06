@@ -1,6 +1,7 @@
-validAirportCodes: 
-  - BOM
-  - DUB
-  - DXB
-  - LHR
-  - STN
+airport_configuration:
+  valid_airport_codes:
+    - BOM
+    - DUB
+    - DXB
+    - LHR
+    - STN
