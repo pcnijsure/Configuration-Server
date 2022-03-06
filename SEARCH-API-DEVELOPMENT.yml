@@ -1,5 +1,5 @@
-airport_code_configuration:
-  valid_airport_codes:
+airportCodeConfiguration:
+  validAirportCodes:
     - BOM
     - DUB
     - DXB
