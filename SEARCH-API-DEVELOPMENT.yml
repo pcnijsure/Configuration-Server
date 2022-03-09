@@ -5,7 +5,7 @@ airportCodeConfiguration:
     - DXB
     - LHR
     - STN
-  nearbyAirports:
+  nearby:
     LHR: 
     - STN
     - LGW
