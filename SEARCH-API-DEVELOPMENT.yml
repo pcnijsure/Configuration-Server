@@ -1,11 +1,12 @@
-validAirportCodes: 
-  - BOM
-  - DUB
-  - DXB
-  - LHR
-  - STN
-nearbyAirportCodes:
-  LHR: 
+airportCodesConfig:
+  validAirportCodes: 
+    - BOM
+    - DUB
+    - DXB
+    - LHR
     - STN
-    - LGW
-    - LTN
+  nearbyAirportCodes:
+    LHR: 
+      - STN
+      - LGW
+      - LTN
