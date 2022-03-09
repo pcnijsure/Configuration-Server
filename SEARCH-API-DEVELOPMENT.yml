@@ -8,3 +8,5 @@ airportCodeConfiguration:
   nearbyAirports:
     LHR: 
     - STN
+    - LGW
+    - LTN
