@@ -1,1 +1,2 @@
-validAirportCodes: BOM, DUB, DXB, LHR, STN
+airportCodesConfig:
+  validAirportCodes: BOM, DUB, DXB, LHR, STN
