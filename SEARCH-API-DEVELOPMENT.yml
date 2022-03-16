@@ -5,6 +5,8 @@ airportCodesConfig:
     - DXB
     - LHR
     - STN
+  nearbyAirportCodesSwitch: 
+    On
   nearbyAirportCodes:
     LHR: 
       - STN
